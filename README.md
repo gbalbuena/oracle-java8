@@ -1,4 +1,6 @@
-# Oracle
+# Oracle Java 8 Docker
+
+Java 8 docker with curl, dnsutils, oracle-java8, ca-certificates and maven
 
 ## Build
 
